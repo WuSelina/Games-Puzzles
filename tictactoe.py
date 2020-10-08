@@ -2,7 +2,6 @@
 # Anything user needs to know:
     # Legal values for graphical inputs are 100 to 1000 inclusive
     # In that case that player 1 or 2 wins, program will give the winner and close the game window, but gives an error that can be ignored.
-# Extra credit work:
     # Resolved when there is a tie.
 
 from graphics import *
